@@ -1,0 +1,14 @@
+C:\Users\ameln\source\repos\Reg\RegTDD\bin\Debug\RegTDD.exe.config
+C:\Users\ameln\source\repos\Reg\RegTDD\bin\Debug\RegTDD.exe
+C:\Users\ameln\source\repos\Reg\RegTDD\bin\Debug\RegTDD.pdb
+C:\Users\ameln\source\repos\Reg\RegTDD\obj\Debug\RegTDD.csproj.AssemblyReference.cache
+C:\Users\ameln\source\repos\Reg\RegTDD\obj\Debug\RegTDD.csproj.CoreCompileInputs.cache
+C:\Users\ameln\source\repos\Reg\RegTDD\obj\Debug\RegTDD.exe
+C:\Users\ameln\source\repos\Reg\RegTDD\obj\Debug\RegTDD.pdb
+C:\Users\graff\Desktop\Reg\RegTDD\bin\Debug\RegTDD.exe.config
+C:\Users\graff\Desktop\Reg\RegTDD\bin\Debug\RegTDD.exe
+C:\Users\graff\Desktop\Reg\RegTDD\bin\Debug\RegTDD.pdb
+C:\Users\graff\Desktop\Reg\RegTDD\obj\Debug\RegTDD.csproj.AssemblyReference.cache
+C:\Users\graff\Desktop\Reg\RegTDD\obj\Debug\RegTDD.csproj.CoreCompileInputs.cache
+C:\Users\graff\Desktop\Reg\RegTDD\obj\Debug\RegTDD.exe
+C:\Users\graff\Desktop\Reg\RegTDD\obj\Debug\RegTDD.pdb

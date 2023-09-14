@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reg", "Reg\Reg.csproj", "{71DFF9FD-E694-489B-975D-8134D33FF46E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegTDD", "RegTDD\RegTDD.csproj", "{2A4A7E66-B699-4E07-B1E7-C85A1FF863D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DFF9FD-E694-489B-975D-8134D33FF46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DFF9FD-E694-489B-975D-8134D33FF46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DFF9FD-E694-489B-975D-8134D33FF46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DFF9FD-E694-489B-975D-8134D33FF46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4A7E66-B699-4E07-B1E7-C85A1FF863D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4A7E66-B699-4E07-B1E7-C85A1FF863D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4A7E66-B699-4E07-B1E7-C85A1FF863D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4A7E66-B699-4E07-B1E7-C85A1FF863D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D88D5FE-5C54-4E4A-B2C8-AEF02095B311}
+	EndGlobalSection
+EndGlobal
